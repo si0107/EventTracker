@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">710033610290-fb61s359v6b6jm79v1go4a02tlagg2er.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">710033610290</string>
+    <string name="google_api_key" translatable="false">AIzaSyBl9k4I9hpNFLf4802kftOEqMd9clsOCEo</string>
+    <string name="google_app_id" translatable="false">1:710033610290:android:b1342c4659d2d646374e2b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBl9k4I9hpNFLf4802kftOEqMd9clsOCEo</string>
+    <string name="google_storage_bucket" translatable="false">flutter-calendar-785db.appspot.com</string>
+    <string name="project_id" translatable="false">flutter-calendar-785db</string>
+</resources>
